@@ -31,3 +31,46 @@ font-weight: 900;
 width: 632px;
 line-height: 95px; /* 131.944% */
 }
+/*section 1 added */
+.section-1{
+    
+    width: 1600px;
+height: 7335px;
+}
+.offer{
+    color: #F00;
+
+text-align: center;
+font-family: Inter;
+font-size: 88px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.deals{
+    color: #F00;
+
+text-align: center;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.ctgry{
+    color: #070211;
+
+text-align: center;
+font-family: Inter;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.imgny{
+    align-items: center;
+    padding: 48px 400px 120px 400px;
+    width: 802.9px;
+height: 500px;
+flex-shrink: 0;
+}
