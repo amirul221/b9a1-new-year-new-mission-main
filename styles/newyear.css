@@ -1,0 +1,33 @@
+/*header added*/
+.bnr{
+    background-image: url('../resources/Banner\ Image.png');
+    width: 1320px;
+     height: 600px;
+     flex-shrink: 0;
+}
+div{
+    align-items: center;
+    padding: 150px 300px;
+    
+}
+.nw{
+    color: #FFF;
+
+text-align: center;
+font-family: Merriweather;
+font-size: 32px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.nc{
+    color: #FFF;
+
+text-align: center;
+font-family: Merriweather;
+font-size: 72px;
+font-style: normal;
+font-weight: 900;
+width: 632px;
+line-height: 95px; /* 131.944% */
+}
