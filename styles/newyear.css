@@ -165,5 +165,85 @@ gap: 10px;
 border-radius: 8px;
 background: #F00;
 }
+/* added section-4 */
+.section-4{
+    background-color: rgba(255, 255, 255, 0.80);
+    margin-top: 120px;
+    width: 1320px;
+height: 482px;
+display: flex;
+justify-content: space-between;
+}
+.contentoffer{
+    padding: 100px 70px 100px 0px;
+}
+.offer{
+    color: #F00;
+padding: 0px 190px 0px 0px;
+text-align: center;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+time{
+    color: #070211;
 
+font-family: Merriweather;
+font-size: 48px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+text-transform: capitalize;
+}
+.infop{
+    color: rgba(7, 2, 17, 0.60);
+    width: 393px;
 
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px; /* 160% */
+}
+.imgelli{
+    padding: 0px 0px 0px 0px;
+    width: 463px;
+height: 463px;
+flex-shrink: 0;
+border-radius: 50%;
+border: 10px solid #F00;
+
+}
+.elip{
+    padding: 50px 50px 50px 50px;
+    width: 364.844px;
+height: 364.844px;
+flex-shrink: 0;
+border-radius: 50%;
+}
+.fest{
+    padding: 85px 0px 0px 100px;
+}
+.date{
+    color: #F00;
+
+font-family: Inter;
+font-size: 48px;
+font-weight: 700;
+}
+.infod{
+    width: 276px;
+    color: rgba(7, 2, 17, 0.60);
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px; /* 160% */
+}
+.img96{
+    width: 140px;
+height: 140px;
+flex-shrink: 0;
+}
