@@ -421,3 +421,80 @@ height: 450px;
 border-radius: 10px;
 flex-shrink: 0;
 }
+/* added section-7 */
+.section-7{
+    margin-top: 120px;
+    width: 1320px;
+height: 616px;
+flex-shrink: 0;
+border-radius: 16px;
+background: rgba(255, 0, 0, 0.05);
+}
+.mail{
+    padding-top: 80px;
+}
+.grp61{
+    padding-left: 300px;
+    width: 150px;
+height: 150px;
+flex-shrink: 0;
+}
+.sn{
+    color: #070211;
+
+text-align: center;
+font-family: Merriweather;
+font-size: 48px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+text-transform: capitalize;
+}
+.infra{
+    color: rgba(7, 2, 17, 0.60);
+
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px; /* 160% */
+}
+label{
+    margin-top: -140px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+.gmail{
+
+    width: 648px;
+height: 72px;
+flex-shrink: 0;
+border-radius: 50px 0px 0px 50px;
+background: #FFF;
+color: rgba(7, 2, 17, 0.30);
+
+text-align: center;
+font-family: Inter;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.sub{
+    width: 210px;
+height: 78px;
+flex-shrink: 0;
+border-radius: 0px 50px 50px 0px;
+background: #F00;
+color: #FFF;
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+text-transform: capitalize;
+}
