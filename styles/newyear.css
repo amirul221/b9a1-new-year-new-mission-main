@@ -1,6 +1,7 @@
 /*header added*/
 .bnr{
     background-image: url('../resources/Banner\ Image.png');
+    border-radius: 16px;
     width: 1320px;
      height: 600px;
      flex-shrink: 0;
@@ -497,4 +498,108 @@ font-style: normal;
 font-weight: 600;
 line-height: normal;
 text-transform: capitalize;
+}
+/* added to footer */
+footer{
+    margin-top: 120px;
+    width: 1320px;
+    height: 609px;
+flex-shrink: 0;
+background: #070211;
+}
+.contac{
+    display: flex;
+    justify-content: space-evenly;
+}
+.place{
+    margin-top: -200px;
+    color: #FFF;
+    width: 375px;
+    height: 70px;
+line-height: 30px;
+}
+.socialcontac{
+    margin-top: -300px;
+}
+.phone{
+    display: flex;
+    gap: 10px;
+}
+.call{
+    padding-top: 13px;
+    width: 40px;
+height: 40px;
+flex-shrink: 0;
+}
+.namber{
+    width: 195px;
+    height: 40px;
+    color: #FFF;
+font-family: Inter;
+font-size: 25px;
+font-style: normal;
+font-weight: 500;
+line-height: 30px;
+}
+.web{
+    display: flex;
+    gap: 10px;
+}
+.website{
+    padding-top: 1px;
+    width: 40px;
+height: 40px;
+flex-shrink: 0;
+}
+.browser{
+    width: 195px;
+    height: 40px;
+    color: #FFF;
+font-family: Inter;
+font-size: 25px;
+font-style: normal;
+font-weight: 500;
+line-height: 30px;
+}
+.line1{
+    margin-top: -370px;
+    width: 1320px;
+    height: 1px;
+    background: rgba(255, 255, 255, 0.15);
+}
+.icon{
+    padding: 30px 400px 400px 450px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.line2{
+    margin-top: -370px;
+    width: 1320px;
+    height: 1px;
+    background: rgba(255, 255, 255, 0.15);
+}
+.xy{
+    padding-top: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    gap: 500px;
+}
+.hh{
+    width: 500px;
+    height: 29px;
+    color: #FFF;
+
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+line-height: normal;
+}
+.gh{
+    color: #FFF;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
 }
